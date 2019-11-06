@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+
+.dialPad {
+    padding-top: 10%;
+    margin: 2%;
+}
